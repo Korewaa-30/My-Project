@@ -41,6 +41,10 @@ img {
 	align-items: center;
 }
 
+a {
+	text-align: center;
+}
+
 .weather {
 	background: linear-gradient(
 		109.6deg,
